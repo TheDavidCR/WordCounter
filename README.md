@@ -1,13 +1,23 @@
 # WordCounter
-a wordcounter made in a bash file 
+un contador de palabras hecho en visual studio code
 
 
 
-in order use this bash file aka .sh file you need to have at least python 3 installed on your computer as because this bash scrpt will be coded in python
+para usar este archivo .py se requiere tener instalado python 3 en tu computadora
 
 
 
-stil working on it as it need some fixes regarding reading txt files
+aun sigo trabajando en este proyecto ya que de momento la unica palabra que lee el archivo .py es python 
+
+
+uso del comando: python3 wordcounter.py python
+
+
+
+si lees esto quiero que sepas que eres una gran persona y muchas gracias por visitar mi nuevo proyecto :D
+
+
+distribucion de linux usada en la imagen: ubuntu 20.04.6 LTS Focal Fossa
 
 
 
